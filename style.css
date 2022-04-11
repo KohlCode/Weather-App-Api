@@ -1,0 +1,9 @@
+body{
+  box-sizing: border-box;
+}
+
+#main{
+  margin: 5% auto;
+  width: 50%;
+  text-align: center;
+}
